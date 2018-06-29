@@ -12,10 +12,10 @@ Estimation and Inverse Problems.
   In NumPy, vectors have no second dimension.
 * In MATLAB, element-by-element operations are explicit with a `.` dot before the symbol.
   In NumPy, element-by-element is the default.  Futher, element-by-element operations can
-  occur between different sized arrays through ["broadcasting"](link here), whereby
+  occur between different sized arrays through ["broadcasting"](https://docs.scipy.org/doc/numpy/user/basics.broadcasting.html), whereby
   array dimensions are matched and the operation is implicitly expanded to all
   corresponding elements.
 * In MATLAB, the array transpose is obtained with an apostrophe `'` after the matrix.
   In NumPy, it is obtained with the `.T` method on the array.
 
-For other differences, please see [NumPy for MATLAB users](insert url here).
+For other differences, please see [NumPy for MATLAB users](https://docs.scipy.org/doc/numpy/user/numpy-for-matlab-users.html).
