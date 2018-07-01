@@ -5,7 +5,7 @@ Estimation and Inverse Problems.
 
 ## Differences between MATLAB and Python/NumPy/Jupyter
 
-* In MATLAB, documentation on a function is obtained with `help(function_name)`.
+* In MATLAB, documentation on a function is obtained with `help function_name`.
   In Jupyter and IPython, help is obtained with `function_name?`.
 * In MATLAB, array indices begin with 1.  In Python and NumPy, indices begin with 0.
 * In MATLAB, vectors are matrices with their second dimension of length 1.
